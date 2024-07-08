@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.8.4
+scipy==1.13.1
+pathlib==1.0.1
+yfinance==0.2.38
+statsmodels==0.14.2
+pandas-datareader==0.10.0
