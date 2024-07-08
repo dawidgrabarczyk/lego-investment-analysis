@@ -21,10 +21,10 @@ The code requires Python versions of 3.* and general libraries available through
 **3.**	Execute the Jupyter notebook.
 
 ```bash
-git clone https://github.com/Dafciooo21/world-happiness-index-modeling
-cd world-happiness-index-modeling
+git clone https://github.com/Dafciooo21/lego-investment-analysis
+cd lego-investment-analysis
 pip install -r requirements.txt
-jupyter notebook WHI.ipynb
+jupyter notebook lego.ipynb
 ```
 
 ### Licensing, Authors, Acknowledgements
